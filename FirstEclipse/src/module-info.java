@@ -1,0 +1,3 @@
+module FirstEclipse {
+	requires junit;
+}
